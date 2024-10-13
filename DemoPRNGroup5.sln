@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo03.DemoXmlSerializer02", "Demo03.DemoXmlSerializer02\Demo03.DemoXmlSerializer02.csproj", "{BA4715F8-76A8-442B-9678-2A8AFEA26A27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo04.SerializationWithAttributesDemo", "Demo04.SerializationWithAttributesDemo\Demo04.SerializationWithAttributesDemo.csproj", "{6EC657F4-1C65-4D2F-B398-33F2823AC72C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo05.JSONSerializationOptions", "Demo05.JSONSerializationOptions\Demo05.JSONSerializationOptions.csproj", "{8978F740-DF7D-405D-92B0-2BE03D026326}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo06.ManageProductsApp", "Demo06.ManageProductsApp\Demo06.ManageProductsApp.csproj", "{D6EB0980-2EBE-4722-AEB6-F134519AF68E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo02.DemoXmlSerializer", "Demo02.DemoXmlSerializer\Demo02.DemoXmlSerializer.csproj", "{972C9894-3367-40B3-846E-05686B896852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo01.ContactListApp", "Demo01.ContactListApp\Demo01.ContactListApp.csproj", "{DCC527B0-08AD-4E4C-A7D8-6B5C1D2B2410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA4715F8-76A8-442B-9678-2A8AFEA26A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4715F8-76A8-442B-9678-2A8AFEA26A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4715F8-76A8-442B-9678-2A8AFEA26A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4715F8-76A8-442B-9678-2A8AFEA26A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC657F4-1C65-4D2F-B398-33F2823AC72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC657F4-1C65-4D2F-B398-33F2823AC72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC657F4-1C65-4D2F-B398-33F2823AC72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC657F4-1C65-4D2F-B398-33F2823AC72C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8978F740-DF7D-405D-92B0-2BE03D026326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8978F740-DF7D-405D-92B0-2BE03D026326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8978F740-DF7D-405D-92B0-2BE03D026326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8978F740-DF7D-405D-92B0-2BE03D026326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EB0980-2EBE-4722-AEB6-F134519AF68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EB0980-2EBE-4722-AEB6-F134519AF68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EB0980-2EBE-4722-AEB6-F134519AF68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EB0980-2EBE-4722-AEB6-F134519AF68E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972C9894-3367-40B3-846E-05686B896852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972C9894-3367-40B3-846E-05686B896852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972C9894-3367-40B3-846E-05686B896852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972C9894-3367-40B3-846E-05686B896852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC527B0-08AD-4E4C-A7D8-6B5C1D2B2410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC527B0-08AD-4E4C-A7D8-6B5C1D2B2410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC527B0-08AD-4E4C-A7D8-6B5C1D2B2410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC527B0-08AD-4E4C-A7D8-6B5C1D2B2410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21377262-A173-4986-AA89-6A33250F5A6C}
+	EndGlobalSection
+EndGlobal
